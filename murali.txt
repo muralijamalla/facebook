@@ -1,2 +1,1 @@
 this is the normal text file
-I am updating this line in uat barnch
